@@ -9,8 +9,8 @@ This is the repository for the IEEE Docker workshop.
 3. SSH to docker server `ieee.jackhil.de` Port `1557`
     -- Images for PuTTY Configuration
 4. Git example - `git clone https://github.com/StoutIEEE/Docker-Workshop.git`
-5. Build container - `docker build . --tag hello`
-6. Run your new container with `docker run -it hello`
+5. Build container - `docker build . --tag hello-<name>`
+6. Run your new container with `docker run -it hello-<name>`
 7. Your turn! -- (Follow workshop instructions)
 
 
