@@ -8,8 +8,8 @@ This is the repository for the IEEE Docker workshop.
 2. ***(Windows only)*** Download PuTTY [here](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 3. SSH to docker server `ieee.jackhil.de` Port `22`
 <br>
-   ![example 1](./images/ex1.png)
-   ![example 2](./images/ex2.png)
+![example 1](./images/ex1.png)
+![example 2](./images/ex2.png)
 <br>
 4. Git example - `git clone https://github.com/StoutIEEE/Docker-Workshop.git`
 5. Build container - `docker build . --tag hello-<name>`
